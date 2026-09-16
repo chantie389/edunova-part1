@@ -123,31 +123,22 @@ The following was completed:
 | 6 August 2026 | v0.4 | Added CSS structure and prepared the website for further styling and development. |
 | 8 August 2026 | v0.5 | Organised the project files and folders and prepared the GitHub repository. |
 
-## reference list
-* Facebook (2026) Facebook. Available at: https://www.facebook.com/ (Accessed: 6 August 2026).
+## 🔗 Reference List
 
-* Figma (2026) Figma. Available at: https://www.figma.com/ (Accessed: 6 August 2026).
+### Content & Sourcing
+- Facebook (2026) Facebook. Available at: https://www.facebook.com/ [Accessed 6 August 2026].
+- Instagram (2026) Instagram. Available at: https://www.instagram.com/ [Accessed 6 August 2026].
+- LinkedIn (2026) LinkedIn. Available at: https://www.linkedin.com/ [Accessed 6 August 2026].
+- Unsplash (2026) Unsplash License. Available at: https://unsplash.com/license [Accessed 6 August 2026].
+- Pexels (2026) Pexels License. Available at: https://www.pexels.com/license [Accessed 6 August 2026].
+- Google Fonts (2026) Google Fonts. Available at: https://fonts.google.com/ [Accessed 6 August 2026].
+- Font Awesome (2026) Font Awesome Free License. Available at: https://fontawesome.com/license/free [Accessed 6 August 2026].
+- Figma (2026) Figma. Available at: https://www.figma.com/ [Accessed 6 August 2026].
+- GitHub (2026) GitHub Documentation. Available at: https://docs.github.com/ [Accessed 6 August 2026].
+- W3Schools (2026) HTML Tutorial. Available at: https://www.w3schools.com/html/ [Accessed 6 August 2026].
 
-* Font Awesome (2026) Font Awesome Free License. Available at: https://fontawesome.com/license/free (Accessed: 6 August 2026).
-
-* GitHub (2026) GitHub Documentation. Available at: https://docs.github.com/ (Accessed: 6 August 2026).
-
-* Google (2025) Google Fonts. Available at: https://fonts.google.com/ (Accessed: 31 July 2026).
-
-* Google Search Central (2025) SEO Starter Guide. Available at: https://developers.google.com/search/docs/fundamentals/seo-starter-guide (Accessed: 31 July 2026).
-
-* Instagram (2026) Instagram. Available at: https://www.instagram.com/ (Accessed: 6 August 2026).
-
-* LinkedIn (2026) LinkedIn. Available at: https://www.linkedin.com/ (Accessed: 6 August 2026).
-
-* MDN Web Docs (2025) CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 31 July 2026).
-
-* MDN Web Docs (2025) HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML (Accessed: 31 July 2026).
-
-* MDN Web Docs (2025) JavaScript Guide. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide (Accessed: 31 July 2026).
-
-* Pexels (2026) Pexels License. Available at: https://www.pexels.com/license/ (Accessed: 6 August 2026).
-
-* Unsplash (2026) Unsplash License. Available at: https://unsplash.com/license (Accessed: 6 August 2026).
-
-* W3Schools (2026) HTML Tutorial. Available at: https://www.w3schools.com/html/ (Accessed: 6 August 2026).
+### Technical Resources
+- Google Search Central (2025) SEO Starter Guide. Available at: https://developers.google.com/search/docs/fundamentals/seo-starter-guide [Accessed 31 July 2026].
+- MDN Web Docs (2025) CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS [Accessed 31 July 2026].
+- MDN Web Docs (2025) HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML [Accessed 31 July 2026].
+- MDN Web Docs (2025) JavaScript Guide. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide [Accessed 31 July 2026].
