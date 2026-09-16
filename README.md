@@ -141,7 +141,7 @@ The following was completed:
 
 ##  File Structure
 
-![file structure screenshot](file structure.jpeg)
+![File Structure](file structure.jpeg)
 
 ---
 
