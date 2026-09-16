@@ -123,6 +123,25 @@ The following was completed:
 | 6 August 2026 | v0.4 | Added CSS structure and prepared the website for further styling and development. |
 | 8 August 2026 | v0.5 | Organised the project files and folders and prepared the GitHub repository. |
 
+---
+
+##  Part 1 Feedback & Changes Implemented
+### Feedback Received:
+1. Footer content was missing from all 6 HTML pages
+2. Reference URLs were broken in the content-research document
+3. Commits were mostly done in one sitting — need to spread across sessions
+
+### Changes Made:
+- [x] Added complete footer with organisation name, copyright notice, and Quick Links navigation to ALL 6 HTML pages (index, about, subjects, resources, testimonials, contact)
+- [x] Fixed all reference URLs — updated README, proposal, and content-research document with identical, working links
+- [x] Split work into multiple commits across separate sessions — see updated Changelog below
+- [x] Verified CSS file links in every HTML page
+
+---
+
+##  File Structure
+
+
 ## 🔗 Reference List
 
 ### Content & Sourcing
