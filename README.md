@@ -1,8 +1,6 @@
 # edunova-part1
 student name: libisi chantell
 
-student number: ST10534598
-
 ## project overview:
   
 Organisation Name: EduNova Tutoring Centre  
