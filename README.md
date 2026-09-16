@@ -140,8 +140,7 @@ The following was completed:
 ---
 
 ##  File Structure
-
-![FileStructure](file structure.jpeg)
+![file structure](file structure.jpeg)
 
 ---
 
