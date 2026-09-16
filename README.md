@@ -183,7 +183,7 @@ Tested across 3 screen sizes with screenshots captured:
 
 ---
 
-## 🔗 Reference List
+##  Reference List
 
 ### Content & Sourcing
 - Facebook (2026) Facebook. Available at: https://www.facebook.com/ [Accessed 6 August 2026].
