@@ -146,18 +146,18 @@ The following was completed:
 
 ##  Part 2 — CSS & Responsive Design
 ### Features Implemented:
-- ✅ External `style.css` created and linked to ALL 6 HTML pages
-- ✅ Consistent base style: font family, colour scheme, reset for cross-browser consistency
-- ✅ Typography styling: `font-family`, `font-size`, `font-weight`, `line-height`, `letter-spacing`
-- ✅ Layout structure: Flexbox used for header, navigation, main content, footer
-- ✅ Visual styles: `color`, `background-color`, `border`, `box-shadow`, `border-radius`
-- ✅ Interactive states: `:hover`, `:active`, `:focus` for buttons and links
-- ✅ **Responsive Design — 3 Breakpoints via Media Queries:**
+-  External `style.css` created and linked to ALL 6 HTML pages
+-  Consistent base style: font family, colour scheme, reset for cross-browser consistency
+-  Typography styling: `font-family`, `font-size`, `font-weight`, `line-height`, `letter-spacing`
+-  Layout structure: Flexbox used for header, navigation, main content, footer
+-  Visual styles: `color`, `background-color`, `border`, `box-shadow`, `border-radius`
+-  Interactive states: `:hover`, `:active`, `:focus` for buttons and links
+-  **Responsive Design — 3 Breakpoints via Media Queries:**
   -  **Desktop (1025px and up):** Full multi-column layout, horizontal navigation
   -  **Tablet (769px – 1024px):** Condensed layout, wrapped navigation
   -  **Mobile (768px and below):** Single column, stacked full-width navigation
-- ✅ **Relative units:** `rem` used throughout for scalable, accessible sizing
-- ✅ Responsive images: percentage widths + `height: auto` for all screen sizes
+-  **Relative units:** `rem` used throughout for scalable, accessible sizing
+-  Responsive images: percentage widths + `height: auto` for all screen sizes
 
 ## Testing & Screenshots
 Tested across 3 screen sizes with screenshots captured:
